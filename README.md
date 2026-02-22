@@ -1,16 +1,48 @@
-# rent_x
+# Flutter Car Rental App
 
-A new Flutter project.
+A simple **Car Rental Mobile Application UI** built using Flutter.
 
-## Getting Started
+This project was created as a college assignment to demonstrate:
 
-This project is a starting point for a Flutter application.
+- Clean UI Design
+- Navigation between screens
+- Reusable widgets
+- Flutter frontend development
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚗 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Browse available cars
+- View car details
+- Simple booking interface
+- Modern UI layout
+- Responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Material Design
+
+---
+
+## 📂 Project Structure
+
+lib/
+├── screens/
+├── widgets/
+├── main.dart
+
+---
+
+## ▶️ Getting Started
+
+To run this project:
+
+```bash
+flutter pub get
+flutter run
+```
