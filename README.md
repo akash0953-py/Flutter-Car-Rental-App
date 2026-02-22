@@ -21,6 +21,34 @@ This project was created as a college assignment to demonstrate:
 
 ---
 
+---
+
+## 📸 App Screenshots
+
+### Splash Screen
+
+![Splash](screenshots/splash.png)
+
+### Home Screen
+
+![Home](screenshots/home.png)
+
+### Car Details Screen
+
+![Car Details](screenshots/car_details.png)
+
+### Booking Screen
+
+![Booking](screenshots/booking.png)
+
+### Confirmation Screen
+
+![Confirmation](screenshots/confirmation.png)
+
+### Profile Screen
+
+![Profile](screenshots/profile.png)
+
 ## 🛠️ Tech Stack
 
 - Flutter
