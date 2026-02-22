@@ -21,33 +21,31 @@ This project was created as a college assignment to demonstrate:
 
 ---
 
----
-
 ## 📸 App Screenshots
 
 ### Splash Screen
 
-![Splash](screenshots/splash.png)
+<img src="screenshots/splash.png" width="300"/>
 
 ### Home Screen
 
-![Home](screenshots/home.png)
+<img src="screenshots/home.png" width="300"/>
 
 ### Car Details Screen
 
-![Car Details](screenshots/car_details.png)
+<img src="screenshots/car_details.png" width="300"/>
 
 ### Booking Screen
 
-![Booking](screenshots/booking.png)
+<img src="screenshots/booking.png" width="300"/>
 
 ### Confirmation Screen
 
-![Confirmation](screenshots/confirmation.png)
+<img src="screenshots/confirmation.png" width="300"/>
 
 ### Profile Screen
 
-![Profile](screenshots/profile.png)
+<img src="screenshots/profile.png" width="300"/>
 
 ## 🛠️ Tech Stack
 
